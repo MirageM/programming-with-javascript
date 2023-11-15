@@ -1,3 +1,4 @@
+// npm install --save-dev jest
 const timesTwo = require('./timesTwo');
 
 // Write the first test
